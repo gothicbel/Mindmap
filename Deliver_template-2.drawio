@@ -1,0 +1,332 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram id="7bYfDr-sznIWWIKafMwo" name="Page-1">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="S7kx4O2pw9i-sN-aWmeE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S7kx4O2pw9i-sN-aWmeE-1" target="S7kx4O2pw9i-sN-aWmeE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S7kx4O2pw9i-sN-aWmeE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S7kx4O2pw9i-sN-aWmeE-1" target="S7kx4O2pw9i-sN-aWmeE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S7kx4O2pw9i-sN-aWmeE-1" value="Курьерский режим" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="270" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S7kx4O2pw9i-sN-aWmeE-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S7kx4O2pw9i-sN-aWmeE-2" target="EZYKJKDtd3-zTQ1qK_1F-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-40" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S7kx4O2pw9i-sN-aWmeE-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="S7kx4O2pw9i-sN-aWmeE-2" target="EZYKJKDtd3-zTQ1qK_1F-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S7kx4O2pw9i-sN-aWmeE-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="S7kx4O2pw9i-sN-aWmeE-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-100" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S7kx4O2pw9i-sN-aWmeE-2" value="Выключен" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="270" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S7kx4O2pw9i-sN-aWmeE-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="S7kx4O2pw9i-sN-aWmeE-3" target="S7kx4O2pw9i-sN-aWmeE-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S7kx4O2pw9i-sN-aWmeE-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="S7kx4O2pw9i-sN-aWmeE-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S7kx4O2pw9i-sN-aWmeE-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="S7kx4O2pw9i-sN-aWmeE-3" target="EZYKJKDtd3-zTQ1qK_1F-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S7kx4O2pw9i-sN-aWmeE-3" value="Влючён" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="270" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S7kx4O2pw9i-sN-aWmeE-9" target="EZYKJKDtd3-zTQ1qK_1F-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S7kx4O2pw9i-sN-aWmeE-9" value="Переключатель курьерского режима в активном состоянии" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="-116" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-1" value="Расчёт стоимости и времени" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="320" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-2" value="Выбор вида транспорта и режима" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="470" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-3" value="Переключатель курьерского режима в неактивном состоянии" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="30" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-4" value="Серая зона. Из требований и на макете не понятно каким именно образом неактивное состояние будет отображаться. Перейдет ли Курьерский режим в левое положение с состоянием &quot;OFF&quot;, изменит ли тумблер цвет с синего на светло-серый? Еще вопрос, будут ли сбрасываться данные в полях после включения Курьерского режима?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="-6" width="340" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-299" y="59.5" as="targetPoint" />
+            <mxPoint x="-230" y="59.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EZYKJKDtd3-zTQ1qK_1F-6" target="EZYKJKDtd3-zTQ1qK_1F-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-6" value="Бонус (Выгода) не высчитывается" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-277" y="182" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S7kx4O2pw9i-sN-aWmeE-2" target="EZYKJKDtd3-zTQ1qK_1F-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-110" y="319" as="targetPoint" />
+            <mxPoint x="90" y="269" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-8" value="Выводится только время и стоимость поездки&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="182" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="EZYKJKDtd3-zTQ1qK_1F-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-469" y="214" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-15" value="Серая зона. Противоречие требований и макета. В требованиях 1 строка - время, 2 -&amp;nbsp; &amp;nbsp;стоимость поездки. На макете 1 строка - стоимость, 2 -&amp;nbsp; &amp;nbsp;время.&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="184" width="258" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="EZYKJKDtd3-zTQ1qK_1F-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-280" y="350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-17" value="Стоимость и время высчитывается для каждого режима и вида транспорта. Подробнее:&amp;nbsp;https://drive.google.com/file/d/18w3LV7u34zAMA2v09zkUrZkpJT6zEFJY/view?usp=sharing&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="320" width="497" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="EZYKJKDtd3-zTQ1qK_1F-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-811" y="352" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-19" value="Серая зона. В требованиях не поясняется каким именно образом будет проходить оплата выбранного транспорта: наличными, денежным переводом, по банковской карте.&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1089" y="307" width="256" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="EZYKJKDtd3-zTQ1qK_1F-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-261" y="501" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-21" value="Активны все режимы. В зависимости от их выбора изменяется доступность видов транспорта. Подробнее:&amp;nbsp;https://drive.google.com/file/d/18w3LV7u34zAMA2v09zkUrZkpJT6zEFJY/view?usp=sharing&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-791" y="471" width="497" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="EZYKJKDtd3-zTQ1qK_1F-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-791" y="503" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-23" value="Серая зона. В требованиях не говорится о редизайне (изменении цвета кнопок и иконок, добавлении рамок формам), а на макете все это присутствует.&amp;nbsp; &amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1069" y="458" width="256" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-24" value="Курьерский режим переведен в правое положение, цвет синий, состояние &quot;ON&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1003" y="-116" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-26" value="Бонус (Выгода) высчитывается" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="182" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-27" value="Выбор вида транспорта и режима" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="683" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-28" value="Расчёт стоимости и времени" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="440" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S7kx4O2pw9i-sN-aWmeE-3" target="EZYKJKDtd3-zTQ1qK_1F-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="495" as="targetPoint" />
+            <mxPoint x="730" y="310" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-31" value="Серая зона. Из требований не известно, будут ли сбрасываться данные в полях после выключения Курьерского режима?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1207" y="-117" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1163" y="-85" as="sourcePoint" />
+            <mxPoint x="1206" y="-85" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-33" value="Пешком. Формула расчета:&amp;nbsp;&lt;span class=&quot;notion-enable-hover&quot; spellcheck=&quot;false&quot; data-token-index=&quot;0&quot; style=&quot;font-family: SFMono-Regular, Menlo, Consolas, &amp;quot;PT Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, Courier, monospace; line-height: normal; background: rgba(135, 131, 120, 0.15); color: rgb(235, 87, 87); border-radius: 4px; padding: 0.2em 0.4em; font-size: 85%;&quot;&gt;Выгода &amp;lt;Bonus&amp;gt; р=&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;notion-enable-hover&quot; spellcheck=&quot;false&quot; data-token-index=&quot;0&quot; style=&quot;font-family: SFMono-Regular, Menlo, Consolas, &amp;quot;PT Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, Courier, monospace; line-height: normal; background: rgba(135, 131, 120, 0.15); color: rgb(235, 87, 87); border-radius: 4px; padding: 0.2em 0.4em; font-size: 85%;&quot;&gt;L * (1 + L * 2)&lt;/span&gt;&amp;nbsp;&amp;nbsp;рублей, где L — длина маршрута" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1096" y="127" width="424" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EZYKJKDtd3-zTQ1qK_1F-26" target="EZYKJKDtd3-zTQ1qK_1F-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1123" y="220" as="targetPoint" />
+            <mxPoint x="973" y="310" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-35" value="Самокат или велосипед. Формула расчета:&amp;nbsp;&lt;span class=&quot;notion-enable-hover&quot; spellcheck=&quot;false&quot; data-token-index=&quot;0&quot; style=&quot;font-family: SFMono-Regular, Menlo, Consolas, &amp;quot;PT Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, Courier, monospace; line-height: normal; background: rgba(135, 131, 120, 0.15); color: rgb(235, 87, 87); border-radius: 4px; padding: 0.2em 0.4em; font-size: 85%;&quot;&gt;Выгода &amp;lt;Bonus&amp;gt; р=&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;notion-enable-hover&quot; spellcheck=&quot;false&quot; data-token-index=&quot;0&quot; style=&quot;font-family:&amp;quot;SFMono-Regular&amp;quot;, Menlo, Consolas, &amp;quot;PT Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, Courier, monospace;line-height:normal;background:rgba(135,131,120,.15);color:#EB5757;border-radius:4px;font-size:85%;padding:0.2em 0.4em&quot;&gt;L * (1 + L * 2) - L * Cost&lt;/span&gt;&amp;nbsp;&amp;nbsp;рублей, где L — длина маршрута, а Cost — стоимость километра на выбранном транспорте" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1097" y="197" width="573" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EZYKJKDtd3-zTQ1qK_1F-26" target="EZYKJKDtd3-zTQ1qK_1F-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1106" y="169" as="targetPoint" />
+            <mxPoint x="1041" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EZYKJKDtd3-zTQ1qK_1F-37" target="EZYKJKDtd3-zTQ1qK_1F-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-37" value="Собственный автомобиль&lt;span style=&quot;background-color: initial;&quot;&gt;.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Формула расчета:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: SFMono-Regular, Menlo, Consolas, &amp;quot;PT Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, Courier, monospace; line-height: normal; background: rgba(135, 131, 120, 0.15); color: rgb(235, 87, 87); border-radius: 4px; padding: 0.2em 0.4em; font-size: 85%;&quot; class=&quot;notion-enable-hover&quot; spellcheck=&quot;false&quot; data-token-index=&quot;0&quot;&gt;Выгода &amp;lt;Bonus&amp;gt; р=&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: SFMono-Regular, Menlo, Consolas, &amp;quot;PT Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, Courier, monospace; line-height: normal; background: rgba(135, 131, 120, 0.15); color: rgb(235, 87, 87); border-radius: 4px; font-size: 85%; padding: 0.2em 0.4em;&quot; class=&quot;notion-enable-hover&quot; spellcheck=&quot;false&quot; data-token-index=&quot;0&quot;&gt;L * (1 + L * 2) - L * Cost&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&amp;nbsp;рублей, где L — длина маршрута, а Cost — стоимость километра на выбранном транспорте&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1098" y="265" width="573" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-38" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EZYKJKDtd3-zTQ1qK_1F-26" target="EZYKJKDtd3-zTQ1qK_1F-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1110" y="231" as="targetPoint" />
+            <mxPoint x="1040" y="235" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EZYKJKDtd3-zTQ1qK_1F-39" target="EZYKJKDtd3-zTQ1qK_1F-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-39" value="Сумма выгоды выводится третьей строкой, под временем и стоимостью поездки" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1096" y="58" width="424" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EZYKJKDtd3-zTQ1qK_1F-40" target="EZYKJKDtd3-zTQ1qK_1F-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-40" value="Бонус (Выгода может) может принимать отрицательное значение&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1096" y="-10" width="424" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="EZYKJKDtd3-zTQ1qK_1F-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1094" y="143" as="targetPoint" />
+            <mxPoint x="1028" y="198" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="EZYKJKDtd3-zTQ1qK_1F-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1086" y="73" as="targetPoint" />
+            <mxPoint x="1018" y="183" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-43" value="Серая зона. В требованиях присутствует следующие противоречия.&amp;nbsp;&lt;div&gt;Первое: &quot;Курьеры передвигаются на велосипедах, самокатах, пешком или на своём автомобиле.&quot;&lt;div&gt;Второе: &quot;Чтобы доставить заказ, можно арендовать велосипед, самокат или пройти расстояние пешком.&quot;&amp;nbsp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Во втором случае утерян собственный автомобиль, как способ доставки заказов или он не предусматривается?&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1711" y="248" width="550" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-45" value="Серая зона. Противоречие требований и макета. В требованиях выводится строка &quot;Выгода (Bonus)&quot;, а на макете &quot;Выгода&quot;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="58" width="258" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-47" value="Серая зона. В случае получения отрицательной выгоды будет ли проинформирован пользователь? Например, всплывающим сообщением &quot;Заказ невыгоден. Отменить?&quot;&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1599" y="-10" width="361" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-50" value="Режимы &quot;Оптимальный&quot; и &quot;Быстрый&quot;.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1095" y="652" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-51" value="Режим &quot;Свой&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1096" y="780" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EZYKJKDtd3-zTQ1qK_1F-27" target="EZYKJKDtd3-zTQ1qK_1F-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1108" y="415" as="targetPoint" />
+            <mxPoint x="1040" y="359" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.013;exitY=0.9;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EZYKJKDtd3-zTQ1qK_1F-27" target="EZYKJKDtd3-zTQ1qK_1F-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1100" y="720" as="targetPoint" />
+            <mxPoint x="1070" y="663" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-54" value="Серая зона. В требованиях отсутствует дальнейшее описание работы Режима курьера. Непонятно, что ставится в приоритет оптимума: время доставки, размер выгоды, более дешевый вид транспорта, безопасность курьера?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1326" y="680" width="410" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-56" value="Такси и каршеринг заблокированы (иконки светло-серые и неактивные)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1325" y="620" width="411" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1324" y="645" as="targetPoint" />
+            <mxPoint x="1259" y="676" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-58" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EZYKJKDtd3-zTQ1qK_1F-50" target="EZYKJKDtd3-zTQ1qK_1F-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1334" y="655" as="targetPoint" />
+            <mxPoint x="1269" y="686" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-59" value="Такси и каршеринг заблокированы (иконки светло-серые и неактивные)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1325" y="755" width="411" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-60" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1323" y="776" as="targetPoint" />
+            <mxPoint x="1258" y="807" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-61" value="Самокат, велосипед, свой автомобиль и пройти пешком активны и могут быть выбраны" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1325" y="818" width="411" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-62" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EZYKJKDtd3-zTQ1qK_1F-51" target="EZYKJKDtd3-zTQ1qK_1F-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1333" y="786" as="targetPoint" />
+            <mxPoint x="1268" y="817" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-63" value="Расчет времени совпадает (кроме недоступных такси и каршеринга) с расчетами при выключенном режиме Курьера." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="388" width="580" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-64" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="EZYKJKDtd3-zTQ1qK_1F-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1126" y="151" as="targetPoint" />
+            <mxPoint x="1048" y="449" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-65" value="Расчет стоимости происходит по той же формуле, что и при выключенном режиме Курьера, но&amp;nbsp; с учетом скидок." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1101" y="473" width="580" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-66" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.006;exitY=0.617;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="EZYKJKDtd3-zTQ1qK_1F-28" target="EZYKJKDtd3-zTQ1qK_1F-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1110" y="428" as="targetPoint" />
+            <mxPoint x="1058" y="459" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-67" value="Серая зона. В требованиях присутствует следующие противоречия.&amp;nbsp;&lt;div&gt;1. &quot;С&lt;span style=&quot;background-color: initial;&quot;&gt;тоимость аренды самокатов снижена на 2 рубля&quot; и &quot;Д&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ля самокатов снизить аренду на 3.5 рубля за километр.&quot; Дисперсия составляет 1,5 руб.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. &quot;З&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;а передвижение на своём автомобиле предусмотрена частичная компенсация топливных расходов — это снижает стоимость передвижения &lt;b&gt;&lt;u&gt;на 10 рублей за километр&lt;/u&gt;&lt;/b&gt;.&quot; и&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&quot;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Расходы на автомобиль установить в размере &lt;b&gt;&lt;u&gt;10 рублей за километр&lt;/u&gt;&lt;/b&gt;&quot;. При начальной стоимости в 20 рублей на километр результаты совпадают. При других вводных (например, 25 рублей) неточность в трактовке требований привела бы к ошибке (15 руб &amp;lt;&amp;gt;10 руб).&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1722" y="488" width="698" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-68" value="Стоимость аренды велосипедов снижена на 1.5 рубля за километр" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1722" y="421" width="548" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-69" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="EZYKJKDtd3-zTQ1qK_1F-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1745" y="454.5" as="targetPoint" />
+            <mxPoint x="1680" y="485.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="EZYKJKDtd3-zTQ1qK_1F-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1722" y="489" as="targetPoint" />
+            <mxPoint x="1680" y="514.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-71" value="На карте строится маршрут" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="783" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-72" value="Подсчитывается и отображается время, стоимость и величина выгоды&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1791" y="842" width="339" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-73" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="EZYKJKDtd3-zTQ1qK_1F-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1800" y="798" as="targetPoint" />
+            <mxPoint x="1735" y="829" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZYKJKDtd3-zTQ1qK_1F-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="EZYKJKDtd3-zTQ1qK_1F-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1790" y="818" as="targetPoint" />
+            <mxPoint x="1735" y="844" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
